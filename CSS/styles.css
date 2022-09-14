@@ -1,0 +1,36 @@
+.primary-color{
+    background-color: #89858a;
+}
+
+.secundary-color{
+    background-color:#352F2F;
+}
+
+.content-profile{
+    margin-top: 20px!important;
+}
+
+.content-sections{
+    margin-top: 30px!important;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background-color: #89858a;
+    color: #ffffff;
+    text-align: center;
+    width: 100%;
+}
+
+.header{
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: #89858a;
+    color: #ffffff;
+    text-align: center;
+    width: 100%;
+}
+
