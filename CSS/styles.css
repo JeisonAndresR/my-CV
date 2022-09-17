@@ -18,11 +18,15 @@
     position: fixed;
     left: 0;
     bottom: 0;
-    height: 50px;
+    height: 40px;
     background-color: #89858a;
     color: #ffffff;
     text-align: center;
     width: 100%;
+}
+
+.footer>div>div>h1{
+    font-size: 20px;
 }
 
 .header{
