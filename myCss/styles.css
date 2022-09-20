@@ -1,11 +1,13 @@
 .primary-color{
-    background-color: #303F9F;
+    background-color: #009688;
 }
 
 .secundary-color{
-    background-color:#CDDC39;
+    background-color:#536DFE;
 }
-
+.light-primary-color{
+    background-color: #B2DFDB;
+}
 .content-profile{
     margin-top: 20px!important;
 }
@@ -14,19 +16,25 @@
     margin-top: 30px!important;
 }
 
+.primary-color-text{
+    color: #212121;
+    font-family: Georgia;
+    font-size: 40px;
+}
+
 .footer{
     position: fixed;
     left: 0;
     bottom: 0;
     height: 40px;
-    background-color: #303F9F;
+    background-color: #009688;
     color: #ffffff;
     text-align: center;
     width: 100%;
 }
 
 .footer>div>div>h4{
-    font-size: 20px;
+    font-size: 30px;
 }
 
 
@@ -40,3 +48,13 @@
     width: 100%;
 }
 
+.text-title{
+    font-family: 'Times New Roman';
+    font-size: 36px;
+}
+
+.div>p>ul>li{
+    font-family:'Tahoma';
+    font-size: 26px;
+    color:#212121;
+}
