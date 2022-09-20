@@ -1,9 +1,9 @@
 .primary-color{
-    background-color: #89858a;
+    background-color: #303F9F;
 }
 
 .secundary-color{
-    background-color:#352F2F;
+    background-color:#CDDC39;
 }
 
 .content-profile{
@@ -19,15 +19,16 @@
     left: 0;
     bottom: 0;
     height: 40px;
-    background-color: #89858a;
+    background-color: #303F9F;
     color: #ffffff;
     text-align: center;
     width: 100%;
 }
 
-.footer>div>div>h1{
+.footer>div>div>h4{
     font-size: 20px;
 }
+
 
 .header{
     position: fixed;
